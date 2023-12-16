@@ -12,7 +12,7 @@
 
 📧 Reach me at [venkatasiva.konathala@gmail.com](mailto:venkatasiva.konathala@gmail.com)
 
-### 🌐 Connect with me:
+### 🔗 Connect with me:
 <p align="left">
     <a href="https://leetcode.com/Venkat_siva/" target="blank">
         <img align="center" src="./assets/leetcode.png" alt="Venkat_siva" height="30" width="40" />
